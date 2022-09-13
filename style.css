@@ -859,8 +859,7 @@ element.style {
     }
     
      .col2 img {
-        margin-right: 20px;
-        width: 60%;
+        margin-right: 0px;
         position: relative;
         align-items: center;
     }
@@ -876,7 +875,7 @@ element.style {
 
 @media only screen and (max-width: 750px) {
     .col2 img {
-        width: 60%;
+        width: 90%;
     }
 
     .skill-container {
