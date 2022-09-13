@@ -847,21 +847,24 @@ element.style {
         width: 100%;
     }
 
-    .col2 img {
-        margin-right: 20px;
-        width: 60%;
-        position: relative;
-        align-items: center;
-    }
+   
 
 }
 
-@media only screen and (max-width:1120px) {
+@media only screen and (max-width:1200px) {
     .home-row {
         justify-content: center;
         font-size: 13px;
 
     }
+    
+     .col2 img {
+        margin-right: 20px;
+        width: 60%;
+        position: relative;
+        align-items: center;
+    }
+        
 
     .col2 {
         margin-top: 10px;
